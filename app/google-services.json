@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671206705745",
+    "project_id": "riperi",
+    "storage_bucket": "riperi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671206705745:android:0b438f8a7bc3f7dcfbc670",
+        "android_client_info": {
+          "package_name": "com.locaspes.riperi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhLLgG5Tn1b4iP3tvGLWIE4GXXprRYAqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

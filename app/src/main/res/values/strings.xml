@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Riperi</string>
+    <string name="original_parts">Оригинальные запчасти</string>
+    <string name="oil_and_liquids">Масло и жидкости</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
